@@ -23,4 +23,4 @@ This project allows users to create, update, rewrite, delete, and view diary ent
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/personal-diary.git
+   git clone https://github.com/Akashlakshmanan-1304/C-Project.git
